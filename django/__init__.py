@@ -2,7 +2,7 @@ from django.utils.version import get_version
 
 VERSION = (3, 2, 0)
 
-__version__ = get_version(VERSION)
+__version__ = '3.2'
 
 
 def setup(set_prefix=True):
