@@ -19,7 +19,7 @@ PY310 = sys.version_info >= (3, 10)
 
 def get_version(version=None):
     """Return a PEP 440-compliant version number from VERSION."""
-    version = get_complete_version(version)
+    version = 4
 
     # Now build the two parts of the version number:
     # main = X.Y[.Z]
