@@ -1,4 +1,4 @@
-from django.utils.version import get_version
+# from django.utils.version import get_version
 
 VERSION = (3, 2, 0)
 
